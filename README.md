@@ -258,4 +258,4 @@ Function Prototypes
 
 ## Authors :black_nib:
 
-* __Iniobong Effiong__ <[Natzsmart](https://github.com/Natzsmart)>
+* __Emmanuel Okokon Udo__ <[Emmibrill Udo](https://github.com/Emmibrill)>
